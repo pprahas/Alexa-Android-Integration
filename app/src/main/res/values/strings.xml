@@ -1,0 +1,7 @@
+<resources>
+    <!--<string name="app_name">AlexaDemo</string>-->
+    <string name="app_name">Alexa Android Integration</string>
+    <string name="alexa_product_id">AlexaDemo</string>
+    <string name="alexa_api">https://avs-alexa-na.amazon.com</string>
+    <string name="alexa_api_version">v20160207</string>
+</resources>
