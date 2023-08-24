@@ -6,14 +6,15 @@ Alexa Android Integration is an Android application that seamlessly integrates [
   <tr>
     <td style="text-align: center;">
       <img src="normal_phone.png" alt="Image 1" height="500">
-      <p style="margin-left: 10px;">"Alexa, what's the weather?"</p>
+      <p style="margin-left: auto; margin-right: 10px; text-align: right;">"Alexa, what's the weather?"</p>
     </td>
     <td style="text-align: center;">
       <img src="weather.png" alt="Image 2" height="500">
-      <p style="margin-left: 10px;">Alexa displaying weather data</p>
+      <p style="margin-left: auto; margin-right: 10px; text-align: right;">Alexa displaying weather data</p>
     </td>
   </tr>
 </table>
+
 
 # Key Features
 
