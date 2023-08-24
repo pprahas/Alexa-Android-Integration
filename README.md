@@ -2,12 +2,12 @@
 
 Alexa Android Integration is an Android application that seamlessly integrates [Alexa Voice Service](https://developer.amazon.com/en-US/docs/alexa/alexa-voice-service/get-started-with-alexa-voice-service.html) into the Android ecosystem. This project empowers users to effortlessly interact with essential Alexa functionalities directly from their Android devices. Designed for versatile deployment, the application is compatible with various devices, including Android TV, phones, and tablets. 
 
-<table>
+<table style="margin: 0 auto;">
   <tr>
-    <td>
+    <td style="text-align: center;">
       <img src="normal_phone.png" alt="Image 1" height="500">
     </td>
-    <td>
+    <td style="text-align: center;">
       <img src="weather.png" alt="Image 2" height="500">
     </td>
   </tr>
