@@ -5,10 +5,10 @@ Alexa Android Integration is an Android application that seamlessly integrates [
 <table>
   <tr>
     <td>
-      <img src="normal_phone.png" alt="Image 1">
+      <img src="normal_phone.png" alt="Image 1" height="200">
     </td>
     <td>
-      <img src="weather.png" alt="Image 2">
+      <img src="weather.png" alt="Image 2" height="200">
     </td>
   </tr>
 </table>
