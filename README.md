@@ -38,3 +38,5 @@ Alexa Android Integration is an Android application that seamlessly integrates [
 - Developed within Android Studio.
 
 - Utilized Java and XML for core functionality and user interface design.
+
+- Enhanced user experience through AWS services.
